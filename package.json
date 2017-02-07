@@ -1,6 +1,6 @@
 {
   "name": "@boneskull/nodejs-lib-archetype",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "boneskull's Builder archetype for Node.js libs",
   "main": "index.js",
   "author": "Christopher Hiller <boneskull@boneskull.com> (https://boneskull.com/)",
