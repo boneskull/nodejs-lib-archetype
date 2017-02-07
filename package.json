@@ -1,6 +1,6 @@
 {
   "name": "@boneskull/nodejs-lib-archetype",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "boneskull's Builder archetype for Node.js libs",
   "main": "index.js",
   "author": "Christopher Hiller <boneskull@boneskull.com> (https://boneskull.com/)",
@@ -23,10 +23,8 @@
     "npm:preversion": "builder run check"
   },
   "dependencies": {
-    "babel-runtime": "^6.22.0",
-    "builder": "^3.2.1"
+    "babel-runtime": "^6.22.0"
   },
-  "bundledDependencies": ["builder"],
   "engines": {
     "node": ">=4",
     "npm": ">=3"
